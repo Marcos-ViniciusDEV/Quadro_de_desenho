@@ -27,9 +27,13 @@ Ajuste o Pincel: Utilize os botões + e - para aumentar ou diminuir o tamanho do
 Apague se Necessário: Clique no botão "borracha" para ativar a ferramenta de apagar.
 
 Comece de Novo: Pressione "Limpar Quadro" para limpar toda a área de desenho.
+
 Tecnologias Utilizadas
+
 Este projeto foi construído utilizando as seguintes tecnologias web fundamentais:
 
 HTML5: Para a estruturação da página e a criação do elemento <canvas>, que é a base da área de desenho.
+
 CSS3: Responsável por toda a estilização e pelo design responsivo da aplicação, proporcionando uma experiência de usuário agradável e moderna.
+
 JavaScript: O cérebro por trás da funcionalidade. O JavaScript manipula o canvas, gerencia os eventos do mouse (clicar, mover, soltar) e implementa a lógica das ferramentas de desenho como seleção de cor, ajuste de pincel e a borracha.
